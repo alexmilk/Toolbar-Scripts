@@ -1,0 +1,1 @@
+javascript:(function(){var sup = prompt("Which ticket you would like to visit?");window.open('https://kaltura.atlassian.net/browse/' + sup,'_blank');})()
