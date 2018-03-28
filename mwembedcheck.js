@@ -1,0 +1,1 @@
+javascript:(function(){var ver = prompt("Which player version you would like to load?");window.location.href = 'http://cdnapi.kaltura.com/html5/html5lib/v'+ver+'/mwEmbedLoader.php';})()
